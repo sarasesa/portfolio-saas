@@ -1,23 +1,25 @@
 {
   "files": {
-    "main.css": "/portfolio-saas/static/css/main.ab7136cd.chunk.css",
-    "main.js": "/portfolio-saas/static/js/main.2197c6eb.chunk.js",
-    "main.js.map": "/portfolio-saas/static/js/main.2197c6eb.chunk.js.map",
-    "runtime-main.js": "/portfolio-saas/static/js/runtime-main.6d4b9c37.js",
-    "runtime-main.js.map": "/portfolio-saas/static/js/runtime-main.6d4b9c37.js.map",
-    "static/js/2.64782e6e.chunk.js": "/portfolio-saas/static/js/2.64782e6e.chunk.js",
-    "static/js/2.64782e6e.chunk.js.map": "/portfolio-saas/static/js/2.64782e6e.chunk.js.map",
-    "static/js/3.e7ea1a11.chunk.js": "/portfolio-saas/static/js/3.e7ea1a11.chunk.js",
-    "static/js/3.e7ea1a11.chunk.js.map": "/portfolio-saas/static/js/3.e7ea1a11.chunk.js.map",
+    "main.css": "/portfolio-saas/static/css/main.2fb8893c.chunk.css",
+    "main.js": "/portfolio-saas/static/js/main.0b108059.chunk.js",
+    "main.js.map": "/portfolio-saas/static/js/main.0b108059.chunk.js.map",
+    "runtime-main.js": "/portfolio-saas/static/js/runtime-main.91be159a.js",
+    "runtime-main.js.map": "/portfolio-saas/static/js/runtime-main.91be159a.js.map",
+    "static/css/2.20aa2d7b.chunk.css": "/portfolio-saas/static/css/2.20aa2d7b.chunk.css",
+    "static/js/2.603a4421.chunk.js": "/portfolio-saas/static/js/2.603a4421.chunk.js",
+    "static/js/2.603a4421.chunk.js.map": "/portfolio-saas/static/js/2.603a4421.chunk.js.map",
+    "static/js/3.54f2bb7c.chunk.js": "/portfolio-saas/static/js/3.54f2bb7c.chunk.js",
+    "static/js/3.54f2bb7c.chunk.js.map": "/portfolio-saas/static/js/3.54f2bb7c.chunk.js.map",
     "index.html": "/portfolio-saas/index.html",
-    "static/css/main.ab7136cd.chunk.css.map": "/portfolio-saas/static/css/main.ab7136cd.chunk.css.map",
-    "static/js/2.64782e6e.chunk.js.LICENSE.txt": "/portfolio-saas/static/js/2.64782e6e.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/portfolio-saas/static/media/logo.6ce24c58.svg"
+    "static/css/2.20aa2d7b.chunk.css.map": "/portfolio-saas/static/css/2.20aa2d7b.chunk.css.map",
+    "static/css/main.2fb8893c.chunk.css.map": "/portfolio-saas/static/css/main.2fb8893c.chunk.css.map",
+    "static/js/2.603a4421.chunk.js.LICENSE.txt": "/portfolio-saas/static/js/2.603a4421.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.6d4b9c37.js",
-    "static/js/2.64782e6e.chunk.js",
-    "static/css/main.ab7136cd.chunk.css",
-    "static/js/main.2197c6eb.chunk.js"
+    "static/js/runtime-main.91be159a.js",
+    "static/css/2.20aa2d7b.chunk.css",
+    "static/js/2.603a4421.chunk.js",
+    "static/css/main.2fb8893c.chunk.css",
+    "static/js/main.0b108059.chunk.js"
   ]
 }
